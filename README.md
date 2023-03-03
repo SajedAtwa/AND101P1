@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[https://imgur.com/gallery/1ISRWG9](https://imgur.com/gallery/1ISRWG9)' title='Sajeds AND101 P1' width='' alt='Sajeds AND101 P1' />
+<img src='https://imgur.com/gallery/1ISRWG9' title='Sajeds AND101 P1' width='' alt='Sajeds AND101 P1' />
 
 GIF created with **Kap**
 
