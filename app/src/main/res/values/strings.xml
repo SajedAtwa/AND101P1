@@ -5,7 +5,7 @@
     <string name="last_name">Atwa</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text"> Hi my name is Sajed Atwa.\n I like playing games and exercising.\n I am from lebanon.</string>
+    <string name="profile_bio_text">Hi my name is Sajed Atwa.\nI like playing games and exercising.\nI am from lebanon.</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
     <string name="profile_hobby_first_text">🥇 Basketball</string>
